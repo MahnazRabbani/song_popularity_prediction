@@ -8,5 +8,5 @@ The "spotify-tracks-dataset" is a tabular dataset in CSV format, containing a ra
 
 
 ## Acknowledgments
-The "spotify-tracks-dataset" used in this project is created by Maharshi Pandya and can be accessed at [dataset link]([url](https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset)).
+The "spotify-tracks-dataset" used in this project is created by Maharshi Pandya and can be accessed at [dataset link](https://huggingface.co/datasets/maharshipandya/spotify-tracks-dataset).
 This project is for educational and research purposes and is not affiliated with or endorsed by Spotify.
